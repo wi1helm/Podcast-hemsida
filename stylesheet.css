@@ -12,23 +12,36 @@
 .podcast-logos{
     display: flex;
     justify-content: center;
-    
+    margin-bottom: 60px;
 
 }
 .hostImages{
+    background-color: black;
     width: 150px;
     margin-right: 50px;
     margin-left: 50px;
     margin-top: 50px;
 }
-#spotify-logo{
-    
+#ourHostNames{
+    display: flex;
+    justify-content: center;
 }
 #ourHosts{
     display: flex;
     justify-content: center;
 }
 .hostNames{
+    font-weight: bold;
     margin-left: 20px;
     margin-right: 20px;
+}
+#wilhelm{
+    margin-left: 97px;
+}
+#isak{
+    margin-left: 50px;
+}
+.hostsRoles{
+    margin-left: 110px;
+    margin-right: 110px;
 }
