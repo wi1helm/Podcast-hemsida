@@ -15,6 +15,14 @@
     
 
 }
+.hostImages{
+    width: 150px;
+    
+}
 #spotify-logo{
     
+}
+#ourHosts{
+    display: flex;
+    justify-content: center;
 }
