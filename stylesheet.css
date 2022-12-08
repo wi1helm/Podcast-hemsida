@@ -53,3 +53,14 @@
     margin-left: 110px;
     margin-right: 110px;
 }
+.soundImages{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+}
+.siteColor{
+    color: black;
+    background-color: #f7f5f2;
+
+}
