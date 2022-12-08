@@ -30,6 +30,10 @@
     display: flex;
     justify-content: center;
 }
+#ourRoles{
+    display: flex;
+    justify-content: center;
+}
 #ourHosts{
     display: flex;
     justify-content: center;
