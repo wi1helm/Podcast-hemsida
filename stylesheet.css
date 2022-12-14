@@ -19,35 +19,26 @@
     margin-bottom: 40px;
 
 }
-.hostImages{
+.host-images{
     background-color: black;
-    width: 150px;
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-top: 50px;
+    width: 10%;
+    margin: 5%
 }
-#ourHostNames{
-    display: flex;
-    justify-content: center;
+.host-names{
+    font-weight: bold;
+    margin: 5%;
+    margin-top:2%;
 }
-#ourRoles{
-    display: flex;
-    justify-content: center;
-}
-#ourHosts{
+#our-host-names{
     display: flex;
     justify-content: center;
 }
 .hostNames{
+    text-align: center;
     font-weight: bold;
     margin-left: 20px;
     margin-right: 20px;
-}
-#wilhelm{
-    margin-left: 97px;
-}
-#isak{
-    margin-left: 50px;
+    
 }
 .hostsRoles{
     margin-left: 110px;
